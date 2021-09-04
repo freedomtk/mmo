@@ -15,3 +15,6 @@ https://docs.google.com/spreadsheets/d/1sCWCCCQ01fycXOldoMGmfRFjZcO3PtPJJY6v3Yvy
 
 SOFT_KEY : Tên trang tính
 https://sheets.googleapis.com/v4/spreadsheets/1sCWCCCQ01fycXOldoMGmfRFjZcO3PtPJJY6v3YvyvS4/values/SOFT_KEY!A1:B100?key=AIzaSyCcx0bxkTkbGVQbnLgE4LU3u8jBAHwW8r4
+
+![GG_KEY](https://user-images.githubusercontent.com/90098009/132095430-c0ef3054-e0c3-485b-86d7-f9c746739fc8.png)
+
